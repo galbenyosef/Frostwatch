@@ -182,3 +182,7 @@ No animal assets were purchased.
 ## Reused cave and pool assets — 0.5.9
 
 The buried entrances and ridges reuse **Icelandic Boulder by Quixel/Megascans**, already acquired with the owned Medieval Village scenery. **Water Materials by tharlevfx** supplies the stone colour/normal textures used by the adapted cave material and the existing waterfall/water effects. **Procedural Nature Seasons Pack by PurePolygons** supplies the existing surrounding ground and snow textures. Frostwatch adds its own generated tunnel meshes, terrain shaping, material adaptation, placement, collision and swimming logic. These adaptations do not change the original assets' applicable Fab/Epic licence terms. No new purchase was made for this pass.
+
+## Unreal combat adaptations - preview 0.5.10
+
+Frostwatch bakes detached heads, left/right arms and left/right legs from the existing Greystone, orc and DemonLord2 meshes, preserving their material assignments. These derived parts retain the respective original asset licenses above and are distributed only as cooked game content. Joint caps, ballistic droplet motion and the glossy droplet material are project-authored. No new third-party assets or recordings were acquired for this pass.

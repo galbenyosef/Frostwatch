@@ -12,7 +12,7 @@ These assets retain the licences under which they were acquired. Fab Standard an
 - Epic Content License Agreement: https://www.unrealengine.com/eula/content
 - Greystone listing and trademark restriction: https://www.fab.com/listings/122fd7bf-6f12-4304-a930-cccbbacdaebc
 
-Ownership/library records and original acquisition terms remain relevant; an asset being free of charge does not make it public domain. The repository publishes documentation and screenshots; downloads contain cooked runtime assets, not the original Fab project files.
+Ownership/library records and original acquisition terms remain relevant; an asset being free of charge does not make it public domain. The repository publishes documentation, screenshots and a project-authored Unreal C++ source snapshot; downloads contain cooked runtime assets, not the original Fab project files. The native source snapshot excludes licensed source art and the complete authored map.
 
 ## Open assets, recordings and voices
 

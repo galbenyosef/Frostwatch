@@ -1,0 +1,230 @@
+[
+  {
+    "path": "Config/DefaultEngine.template.ini",
+    "sha256": "e1b8ef3474b972ad6f61e85ff7c0c1e58802b8c593a7a1aa674b3db90d98896d"
+  },
+  {
+    "path": "Config/DefaultGame.ini",
+    "sha256": "24b882cb1b2b3ca137e7a433c80ed549d530ac66ff18a7cb2a18a34e9a51d312"
+  },
+  {
+    "path": "Config/DefaultGameUserSettings.ini",
+    "sha256": "f6cbb54f4fc9028baeba37dbcf9ed8efbeb9b28687c1f576a212b6cf5342d0b9"
+  },
+  {
+    "path": "Config/DefaultInput.ini",
+    "sha256": "91ac6f95a40096dfb0db4067ab8daceaa1b4491a042a4de5311eea29a8f48c29"
+  },
+  {
+    "path": "Frostwatch.uproject",
+    "sha256": "cb517bf7ea3f463dfad3c25d17ea80b055059c22837086163bc971f16dd4efb1"
+  },
+  {
+    "path": "Scripts/author_fighting.py",
+    "sha256": "bd6cbe013fc874f20a3b52880a3567b961afd6030f2ac6ba777875d85bd50e94"
+  },
+  {
+    "path": "Scripts/Verify-CampaignPreview.ps1",
+    "sha256": "83c56399ee9cc25e639174380966f82dd1a0a457bd553a80ff3c8b140456ee7c"
+  },
+  {
+    "path": "Scripts/Verify-CombatContact.ps1",
+    "sha256": "8ead22bd904458c7ecd401847422651b60ccd0e4d95f3196fcd7b54081c5720e"
+  },
+  {
+    "path": "Source/Frostwatch/Frostwatch.Build.cs",
+    "sha256": "919c7459bf527e72ef6c274fb100868b205079a9217dacf649e586903d571d29"
+  },
+  {
+    "path": "Source/Frostwatch/Frostwatch.cpp",
+    "sha256": "d1558e9f9484110ac5fbae3566594f4b6ecfcf80d0bf2624158bbb3684d8428f"
+  },
+  {
+    "path": "Source/Frostwatch/FWCampaign.cpp",
+    "sha256": "d25bea3991178b9ab978a174e514aa0c6dd0769590e5ab76904202b8048dc77c"
+  },
+  {
+    "path": "Source/Frostwatch/FWCampaign.h",
+    "sha256": "3f6dd63a21162b926da9db85ec9946510cdca397c622753737233ab6fc1a1d8d"
+  },
+  {
+    "path": "Source/Frostwatch/FWCavePassages.cpp",
+    "sha256": "8b9d8c21a47ac30216c574799e6c4c4a961f21134ef42da73981ddc0ccac1474"
+  },
+  {
+    "path": "Source/Frostwatch/FWCavePassages.h",
+    "sha256": "9fe1dfd5fc8465bcf48fc5ca93e10a27d9c5f1282ad1e653f5abb6010dc6bef9"
+  },
+  {
+    "path": "Source/Frostwatch/FWCombatAuthor.cpp",
+    "sha256": "5e5800d5bcf88f22b6f86d64937344c22a89d0547acfd1305e461e3a444a9086"
+  },
+  {
+    "path": "Source/Frostwatch/FWCombatContactTests.cpp",
+    "sha256": "573262c4eed7d28d85fda057becebb25474e8cd6f3595d7f738b130cc21c07a6"
+  },
+  {
+    "path": "Source/Frostwatch/FWCombatEffects.cpp",
+    "sha256": "8a41c1b1feedcedf6101b380a42f13b746a67d339240f1cf9fabdeb74ad8a629"
+  },
+  {
+    "path": "Source/Frostwatch/FWCombatEffects.h",
+    "sha256": "2654b1c148c8ccc59e8b8663f409b6f78420e0083102d5481f78708e6eb0ea73"
+  },
+  {
+    "path": "Source/Frostwatch/FWConsequences.cpp",
+    "sha256": "52de9b02c3f46d52e73a94168f21bfd9aad3e0c9f4fb3c3539bebc92e93ea988"
+  },
+  {
+    "path": "Source/Frostwatch/FWConsequences.h",
+    "sha256": "5e0faee926ae9a7baa3671d8b75da89f9fe517360ede61e4d4f86ac51223c00c"
+  },
+  {
+    "path": "Source/Frostwatch/FWDisplay.cpp",
+    "sha256": "f867368ebae62d8fefccbb5c80207cef68edf1cad6412e0700ea2d4e4cc05cb3"
+  },
+  {
+    "path": "Source/Frostwatch/FWDisplay.h",
+    "sha256": "1a57c63eb5dfbb2c1a20b5de059f697b3fa83cceacb41d74384722d71da13f49"
+  },
+  {
+    "path": "Source/Frostwatch/FWDragons.cpp",
+    "sha256": "3b72df3f7d8371e110b2eaa6c6bf203217d6c40ee0109161fdd837206b6fb7b9"
+  },
+  {
+    "path": "Source/Frostwatch/FWFighting.cpp",
+    "sha256": "131123b841c8ef567604af8365f9a83a0236b47b843efc3b45780addcfe35063"
+  },
+  {
+    "path": "Source/Frostwatch/FWFighting.h",
+    "sha256": "32ebbc6070966f0b606d82bf2f6669e35c1d4a94c3a36fc4355de64435c60208"
+  },
+  {
+    "path": "Source/Frostwatch/FWFirstPerson.cpp",
+    "sha256": "3fb3fdf2e385497d384d1e4b9eb98f57d2c19866b18a5be6371b55d316587c48"
+  },
+  {
+    "path": "Source/Frostwatch/FWGame.cpp",
+    "sha256": "c1bc247128a38dcfb73351725fd0f9723879f7c046e329a253f28ff74e160924"
+  },
+  {
+    "path": "Source/Frostwatch/FWGame.h",
+    "sha256": "f4eca05defce20ced25c52634fe71e1ceb3a5a862adc71fa4f7e935c0a5877cb"
+  },
+  {
+    "path": "Source/Frostwatch/FWHorse.cpp",
+    "sha256": "308b0341b46477d0483c7096cc8b86140eae436de26ddd3963bbc92a1d384985"
+  },
+  {
+    "path": "Source/Frostwatch/FWHorse.h",
+    "sha256": "bcd1b2220885300f1f68c0536bdb8994e213a6c112b41f91734f269f61ed6471"
+  },
+  {
+    "path": "Source/Frostwatch/FWLegacySave.cpp",
+    "sha256": "ef555f6f757237193f7450cbdd629999ee783013e3151156128a3e998591601d"
+  },
+  {
+    "path": "Source/Frostwatch/FWLegacySave.h",
+    "sha256": "21f5a91681f72c1b8bb8f155172149047f8de88b1881dc7361725b24be52720e"
+  },
+  {
+    "path": "Source/Frostwatch/FWLife.cpp",
+    "sha256": "a5ffafa8c272232e4645a30d3b77f54d1b85fd179f66911bfbb58328f284570f"
+  },
+  {
+    "path": "Source/Frostwatch/FWLivestock.cpp",
+    "sha256": "c7b0aba7fed528168caa9e8e7bb460ac6f5a7f35408afab64eb1842f74bbf220"
+  },
+  {
+    "path": "Source/Frostwatch/FWLivestock.h",
+    "sha256": "204aa0a6a48822af78121ed6a7a19d59af5134d4cd1150e55d9367013f1522d8"
+  },
+  {
+    "path": "Source/Frostwatch/FWMenus.cpp",
+    "sha256": "1b4942b08364660f16b15521ccd80bc2ed974d30638fefa371d39074412093b8"
+  },
+  {
+    "path": "Source/Frostwatch/FWMotion.cpp",
+    "sha256": "b13e546b7eb7b61fc62e5265b6a632e733192fe87e0624fa4f5a5a3bd08c2aff"
+  },
+  {
+    "path": "Source/Frostwatch/FWMotion.h",
+    "sha256": "6ce6b3a037c6b5daa11798e088b5a1707e25f9fb8f5333dd3b8c337d3f1bc8c5"
+  },
+  {
+    "path": "Source/Frostwatch/FWParchment.cpp",
+    "sha256": "e6f0db4a1cbad72d755abdd463f581ecbc756ef455bc38d530fd702682bffff3"
+  },
+  {
+    "path": "Source/Frostwatch/FWParchment.h",
+    "sha256": "6e8f788befd83021bb3e87d9caa3271f7fcf75ef28307472d38d49bdc6d5c390"
+  },
+  {
+    "path": "Source/Frostwatch/FWReleaseGraphics.cpp",
+    "sha256": "4250f078a1c9ce3a60f45b25f38d31871f140243ca61962064589df20e5ff0c5"
+  },
+  {
+    "path": "Source/Frostwatch/FWReleaseGraphics.h",
+    "sha256": "e65c803e995a54d4ebdc01fe25da7a4685ddf97956a588d058ddc8d4f19b4ff0"
+  },
+  {
+    "path": "Source/Frostwatch/FWSave.cpp",
+    "sha256": "fa3e095f47404b235c28d92908785e4124f4c36a6255a520ae4d0c7b24e66587"
+  },
+  {
+    "path": "Source/Frostwatch/FWSave.h",
+    "sha256": "8fa01fb10eff69755dee560aa802c1bc5e89fa5053fc48c89878289ef1745742"
+  },
+  {
+    "path": "Source/Frostwatch/FWSliceReview.cpp",
+    "sha256": "e3a09c2c0cdd221065d1e9b8d4ff2e7435fbda9cdba1136585809aa42391bfd0"
+  },
+  {
+    "path": "Source/Frostwatch/FWStory.cpp",
+    "sha256": "e32f61ad6ac24946b8fe960a9f5882da6e1c2dff0a4e426cb8674f81e83af803"
+  },
+  {
+    "path": "Source/Frostwatch/FWStory.h",
+    "sha256": "1427c885bd73832ad9850995b0d233440f00b00bf635d09541901706d85711f0"
+  },
+  {
+    "path": "Source/Frostwatch/FWTraversal.cpp",
+    "sha256": "2693d8ca5c709343f4615bfeebeef2dbb9f95427623309242b9c69a12e7d9059"
+  },
+  {
+    "path": "Source/Frostwatch/FWValidation.cpp",
+    "sha256": "40c54c34ad65248f317d453fbf488fc91c37953b25886a3467edb639be71704c"
+  },
+  {
+    "path": "Source/Frostwatch/FWWaterVolume.cpp",
+    "sha256": "778262a34d1be222db4206125f217729c278fe6653585265ffb81949f1918f01"
+  },
+  {
+    "path": "Source/Frostwatch/FWWaterVolume.h",
+    "sha256": "df985f5c95defdee27db89d3baa5032c4976e356300135517d4c4344d6f2dc83"
+  },
+  {
+    "path": "Source/Frostwatch/FWWeather.cpp",
+    "sha256": "1e070fe9452c9892dafc6bd915d57d90697483cce7ca66edbc8f80b3f0fbfcbc"
+  },
+  {
+    "path": "Source/Frostwatch/FWWeather.h",
+    "sha256": "e2afaacaeb40361753ef4cad45d6fdc2169420ca77c9f3c24576ca01868947b5"
+  },
+  {
+    "path": "Source/Frostwatch/FWWorld.cpp",
+    "sha256": "0e509c82cf1ecf48514c568b30fbe334e666ff10359ea4b9ee2dcec037ae0a14"
+  },
+  {
+    "path": "Source/Frostwatch/FWWorld.h",
+    "sha256": "344103dcf883d178b658403b742a5fac4fdc850b53fed91b3cd4e55bd559f1eb"
+  },
+  {
+    "path": "Source/Frostwatch.Target.cs",
+    "sha256": "3277f308a60317e3af040708eb586e9cd024c0df94c6c583040a06c70ac51795"
+  },
+  {
+    "path": "Source/FrostwatchEditor.Target.cs",
+    "sha256": "c2b131cb53c28eef5cdcb4477bd1fa0a19c2d108ba7e1d94083c6e33f4fa0128"
+  }
+]

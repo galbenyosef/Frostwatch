@@ -1,4 +1,4 @@
-# Technical notes — Frostwatch preview 0.5.2
+# Technical notes — Frostwatch preview 0.5.10
 
 Frostwatch is an offline, single-player Windows fantasy adventure and an AI-led development experiment. This document describes the implemented preview, not a promise that every feature has production-game polish. See [AI development and measured resource use](AI-DEVELOPMENT.md), [performance](PERFORMANCE.md), [credits](CREDITS.md) and [distribution terms](DISTRIBUTION.md).
 
@@ -8,7 +8,7 @@ Frostwatch is an offline, single-player Windows fantasy adventure and an AI-led 
 - Native C++ game module with engine input, JSON data, procedural mesh support, AI/navigation modules and RHI diagnostics. Editor-only authoring uses Unreal Python, editor scripting, asset import and generated static meshes.
 - Data-driven world, quest/item/enemy definitions and terrain height samples accompany the authored Hearthmere map. Runtime systems cover character control, combat, quests, dialogue, settlements, travel, weather, menus and saves.
 - Development automation uses Python and PowerShell; UnrealBuildTool builds the game/editor and AutomationTool cooks/stages packages. Iterative cooking, limited build parallelism and working caches on the development HDD reduce redundant work and SSD pressure.
-- Git tracks source, configuration templates and authoring scripts locally. The public repository publishes the player documentation, screenshots and downloadable runtime. It does not expose the complete licensed source-asset library or Unreal Engine source.
+- Git tracks source, configuration templates and authoring scripts locally. The public repository publishes player documentation, screenshots, a downloadable runtime and the project-authored [Unreal C++ source snapshot](Unreal/README.md). It does not expose the complete licensed source-asset library or Unreal Engine source.
 
 ## Rendering and memory
 
@@ -125,3 +125,5 @@ New tunnel sections retain their walls without distance culling, use a 0.5 dista
 AFWWaterVolume uses an overlapping box broad phase and the visible pool's irregular elliptical boundary. Native character movement handles swimming and collision; a bounded upward movement input supplies surface flotation. Visual water/foam meshes explicitly use NoCollision and actor collision is disabled. No player repositioning is used to swim out or travel between caves. Diagnostic drivers place their initial player once, then use normal movement input; they are not enabled in ordinary play.
 
 No save schema changes. Save loading retains the existing camp-checkpoint behaviour. The source generation and authoring scripts retain backups and original foliage transforms for repeatable placement.
+
+The 0.5.10 combat changes and their verification are described in [FIGHTING.md](FIGHTING.md).

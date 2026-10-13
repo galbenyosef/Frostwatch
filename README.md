@@ -2,11 +2,21 @@
 
 A free, single-player fantasy adventure for Windows, built in Unreal Engine. Explore a winter vale, recover three broken oaths, free Edrin and confront the rulers of Frostwatch.
 
-**[Download the Windows preview](https://github.com/JonBoyd2401/Frostwatch/releases/tag/v0.5.9-preview)**
+**[Download the Windows preview](https://github.com/JonBoyd2401/Frostwatch/releases/tag/v0.5.10-preview)**
 
 This is a playable development preview. Performance and animation polish are still being improved; it is not a finished commercial release.
 
-## New in 0.5.9
+## New in 0.5.10
+
+- Aimed head, arm and leg injuries, with weakened attacks, reduced reach after disarm, and slower movement after leg wounds.
+- Physics-based head, arm and leg separation across all four humanoid meshes.
+- Directional cuts, thrusts, rising/low cuts, shield bashes, feints and a light / light / heavy finisher.
+- Animated blood droplets, impact splashes and spreading/fading surface marks.
+- An in-game fighting guide and the [native Unreal C++ source snapshot](Unreal/README.md).
+
+See [moves, injury rules and verification](FIGHTING.md). This update retains the existing campaign, caves, swimming, livestock and save format.
+
+## Previously added in 0.5.9
 
 - Cave entrances sit within hills, with the old exposed shells hidden by terrain.
 - Walk continuously between the waterfall chamber and all three caves through a connected underground network, including two loops and four dead-end branches.
